@@ -1,0 +1,7 @@
+mysql-connector==2.2.9
+pyTelegramBotAPI==3.6.7
+requests==2.7.0
+six==1.14.0
+style==1.1.0
+telebot==0.0.3
+update==0.0.1
